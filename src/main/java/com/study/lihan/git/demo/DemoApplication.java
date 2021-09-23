@@ -11,6 +11,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("修改1");
 		System.out.println("修改2");
+		System.out.println("正常合并分支");
 	}
 
 }
