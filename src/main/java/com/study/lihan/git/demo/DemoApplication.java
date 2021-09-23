@@ -13,6 +13,8 @@ public class DemoApplication {
 		System.out.println("修改2");
 		System.out.println("正常合并分支");
 		System.out.println("冲突合并分支1");
+		System.out.println("idea的push");
+
 	}
 
 }
